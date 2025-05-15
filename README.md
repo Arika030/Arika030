@@ -1,4 +1,4 @@
-<h1 align="center">Arika030</h1>
+<h1 align="center">Arika</h1>
 <p align="center">
   Brain: “We coding?” You: “Already brewing ideas and milktea!”
 </p>
